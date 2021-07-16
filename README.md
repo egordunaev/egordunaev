@@ -20,12 +20,12 @@ I'm software engineer, music nerd, artist, and everything in between.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=egordunaev&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egordunaev&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=egordunaev)
