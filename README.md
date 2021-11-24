@@ -28,4 +28,3 @@ I'm software engineer, music nerd, artist, and everything in between.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egordunaev&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=egordunaev)
